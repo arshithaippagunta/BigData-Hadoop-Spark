@@ -9,7 +9,7 @@ using MapReduce and Spark, with lemmatization.
 - Spark
 
 ## Usage
-1. Compile the project (using Maven or your build tool).
+1. Compile the project.
 2. Run the `MapReduceExample` to process data with Hadoop.
 3. Use `SparkExample` to process data with Spark transformations.
 
